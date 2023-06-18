@@ -4,10 +4,9 @@ import './App.css';
 
 function App() {
   return (
-    <>
-      <GridArea>
-      </GridArea>
-    </>
+    <div className='bg-green-100 w-screen h-screen flex justify-center items-center'>
+      <GridArea />
+    </div>
   );
 }
 
